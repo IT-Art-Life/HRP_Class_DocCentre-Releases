@@ -1,7 +1,7 @@
 # HRP_Class_DocCentre-Releases
 Public release repository for HRP_Class_DocCentre (1C:Enterprise). Compiled packages only.
 
-# HRP_Class_DocCentre Releases
+## HRP_Class_DocCentre Releases
 
 Public distribution repository for HRP_Class_DocCentre  
 (Центр подготовки документов по данным кадрового учета).
